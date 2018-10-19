@@ -11,6 +11,7 @@ Title: Queed
 Author: Henry Sydnor Harrison
 
 Release Date: December 8, 2004 [EBook #14303]
+Last Updated: June 18, 2016
 
 Language: English
 
@@ -1051,7 +1052,7 @@ Noticing the omission and looking through the reasons for it as through
 window-glass, Sharlee smothered a laugh, and bowed. Mr. Queed bowed, but
 did not laugh or even smile. He drew up a chair at his usual place and
 sat down. As by an involuntary reflex, his left hand dropped toward his
-coat-pocket, whence the top edges of a book could be described
+coat-pocket, whence the top edges of a book could be descried
 protruding. Mrs. Paynter moved vaguely toward the door. As for her
 business woman, she made at once for the kitchen, where Emma and her
 faithful co-worker and mother, Laura, rose from their supper to assist
@@ -1229,7 +1230,7 @@ coffee at a gulp and go hurriedly but deeply into the preserves.
 "My aunt will be glad that you can make a remittance to-night. I will
 take it to her for you with pleasure."
 
-"Oh!-All right."
+"Oh!--All right."
 
 He put his hand into his outer breast-pocket, pulled out an envelope,
 and absently pitched it across the table. She looked at it and saw that
@@ -1254,7 +1255,7 @@ that Mr. Queed was not an entire stranger to the science of
 money-making.
 
 "Ah," said the agent, insinuatingly, "evidently you have _some_
-occupation, after all-of--of a productive sort...."
+occupation, after all--of--of a productive sort...."
 
 He looked up again with that same air of vexed surprise, as much as to
 say: "What! You still hanging around!"
@@ -3330,7 +3331,7 @@ that went into the _Post_, including advertisements of auction sales and
 for sealed bids.
 
 Queed returned to his own office for his hat and coat. Having heard his
-feet upon the stairs, Colonel Cowles called Out:--
+feet upon the stairs, Colonel Cowles called out:--
 
 "What was the rumpus upstairs, do you know? It sounded as if somebody
 had a bad fall."
@@ -3530,7 +3531,7 @@ with deadly precision at a weight-and-pulley across the room.
 
 Orange-stick in mouth, he went around like a museum guide, introducing
 the beloved apparatus to the visitor under its true names and uses, the
-chest-weights, dumb-*bells and Indian clubs, flying-rings, a
+chest-weights, dumb-bells and Indian clubs, flying-rings, a
 rowing-machine, the horizontal and parallel bars, the punching-bag and
 trapeze. Klinker lingered over the ceremonial; it was plain that the
 gymnasier was very dear to him. In fact, he loved everything pertaining
@@ -4017,7 +4018,7 @@ did so, and slowly lit a cigar.
 "I'm sorry to see that you've met with an accident, Mr. Queed. Is there
 anything, perhaps, that I might do?"
 
-"Nothing at all,'thanks," said Queed, so indignantly that Nicolovius
+"Nothing at all, thanks," said Queed, so indignantly that Nicolovius
 dropped the subject at once.
 
 The star-boarder of Mrs. Paynter's might have been fifty-five or he
@@ -5659,7 +5660,7 @@ of farewell when she embarked.
 
 By marvelous work, Queed closed up the twenty-five minutes of time he
 had bestowed upon Fifi, and pulled into supper only three minutes behind
-running-time. After-wards, he sat in the Scriptorium, his face like a
+running-time. Afterwards, he sat in the Scriptorium, his face like a
 carven image, the sacred Schedule in his hands. For it had come down to
 that. Either he must at any cost hew his way back to the fastness of his
 early days, or he must corrupt the Schedule yet again.
@@ -6487,7 +6488,7 @@ something the good Doctor said angered these women, for they began
 showering him with profane and blasphemous names. At this style of
 language the fishwives are said to be extremely proficient. What do you
 fancy that Dr. Johnson called them in return? But you could hardly
-guess. He called H them parallelopipedons. I am not entirely certain
+guess. He called them parallelopipedons. I am not entirely certain
 whether it was parallelopipedons or isosceles triangles. Possibly there
 are two versions of the story."
 
@@ -6654,7 +6655,7 @@ red face suddenly white.
 look than by that scream.
 
 But Klinker only turned and slipped softly out of the door, tipping on
-his toes as though somebody near at hand 4 were asleep.
+his toes as though somebody near at hand were asleep.
 
 Queed was left bewildered, and completely at a loss. Whatever the matter
 was, it clearly concerned Buck Klinker. Equally clearly, it did not
@@ -6677,7 +6678,7 @@ course, is no matter of a boarding-house: for queens must eat though
 kings lie high in state.
 
 To Mrs. Paynter's parlor came a girl, white-faced and shadowy-eyed, but
-for those hours at least, calm and tear-less and the mistress of
+for those hours at least, calm and tearless and the mistress of
 herself. The boarders rose as she appeared in the door, and she saw that
 after all she had no need to tell them anything. They came and took her
 hand, one by one, which was the hardest to bear, and even Mr. Bylash
@@ -8163,7 +8164,7 @@ house with him."
 
 Mrs. Paynter's agent was much surprised and interested by this news, and
 said so. "But how in the world," she went on, puzzled, "did you make him
-like you so? I always supposed that he hated everybody he does me, I
+like you so? I always supposed that he hated everybody--he does me, I
 know."
 
 "I believe he does hate everybody but me."
@@ -8175,7 +8176,7 @@ little fixtures over the gas.
 "I can see nothing in the least extraordinary in the refusal of a
 cultured gentleman to hate me."
 
-"I don't mean it that way at all-not at all! But Professor Nicolovius
+"I don't mean it that way at all--not at all! But Professor Nicolovius
 must know cultured gentlemen, congenial roomers, who are nearer his own
 age--"
 
@@ -9917,7 +9918,7 @@ He hesitated. "I hardly like to say how much."
 "The more you become interested in it--and I believe it will be
 progressive--the less you will mind saying so."
 
-"It is a strange interest-utterly unlike me--"
+"It is a strange interest--utterly unlike me--"
 
 "How do you know it isn't more like you than anything you ever did in
 your life?"
@@ -13419,7 +13420,7 @@ number of votes--enough to have safely carried the bill."
 West looked disturbed and unhappy.
 
 "But if we find out that this legislature is so drained by inescapable
-expenses that it simply cannot provide the I money? Suppose the State
+expenses that it simply cannot provide the money? Suppose the State
 had been swept by a plague? Suppose there was a war and a million of
 unexpected expenses had suddenly dropped on us from the clouds? Wouldn't
 you agree that circumstances altered cases, and that, under such
